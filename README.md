@@ -1,12 +1,12 @@
 IP_Catcher
-==========
+===
 
-##function
+function
 ----------
     抓取本机ip并显示相关信息。
 
 
-##about codes
+about codes
 ------------
     工程为VS2010工程
     工程名叫IP_Catcher。
@@ -15,8 +15,9 @@ IP_Catcher
     Ip格式在IP_Info.h头文件中。
 
 
-##演示
+演示
 ------
 ![](https://github.com/messyidea/IP_Catcher/raw/master/pic1.jpg)
+
 ![](https://github.com/messyidea/IP_Catcher/raw/master/pic2.jpg)
 
